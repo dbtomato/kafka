@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/kafka_2.11-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/kafka-clients-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/log4j-jar/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/scala-library-2.11.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/scala-compiler-2.11.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/scala-reflect-2.11.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomato/Desktop/lib/kafka-spark-jar/kafka-2.11-0.8.2.1/scalap-2.11.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
